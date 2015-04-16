@@ -7,7 +7,7 @@
  * @copyright 2015 David
  *
  * @wordpress-plugin
- * Plugin Name: Edd License Key Template
+ * Plugin Name: EDD License Key Template
  * Plugin URI:  https://calderawp.com
  * Description: Generates license keys based on template
  * Version:     1.0.0
